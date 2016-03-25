@@ -9,6 +9,7 @@
   "bin": {
     "hellokittyprank": "./index.js"
   },
+  "url": "https://github.com/mattludwigs/hellokittyprank"
   "author": "",
   "preferGlobal": "true",
   "license": "MIT"
