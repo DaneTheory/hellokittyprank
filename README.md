@@ -4,7 +4,7 @@ Light wieght script to automate opening tons of tabs in the browser to see Hello
 
 ## Motivation
 
-1. No other npm moudle does this
+1. No other npm module does this
 2. People should put their moniters to sleep when they leave their desk :)
 
 ## install
