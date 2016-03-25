@@ -11,7 +11,7 @@ Light wieght script to automate opening tons of tabs in the browser to see Hello
 
 `npm install -g hellokittyprank`
 
-## Useage
+## Usage
 
 To open 10000000 hello kitty tabs into browser. The only limit is what he computer can handle. Please don't crash your co-workers computer. 
 
