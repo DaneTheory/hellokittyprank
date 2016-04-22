@@ -13,12 +13,17 @@ Light wieght script to automate opening tons of tabs in the browser to see Hello
 
 ## Usage
 
-To open 10000000 hello kitty tabs into browser. The only limit is what he computer can handle. Please don't crash your co-workers computer. 
+### Amount
 
-`hellokittyprank 10000000` 
+`hellokittyprank amount 100`
 
-Basically
+This will open 100 browser tabs with a Hello Kitty image, then the program will exist
 
-`hellokittyprink number-of-tabs`
+### Interval
+
+`hellokittyprank interval 900000`
+
+This will open a new browser tab for a Hello Kitty image every 15 minutes
+
 
 **Prank Responsiblity**
